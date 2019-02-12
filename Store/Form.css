@@ -1,0 +1,10 @@
+input {
+    box-sizing: border-box;
+    border: 2px solid darkgoldenrod;
+    background-color: darkseagreen;
+    color: firebrick;
+}
+
+body {
+    background-color: goldenrod;
+}
