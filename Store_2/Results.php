@@ -21,7 +21,6 @@ $fruit_total = $fruit*$fruit_cost;
 $toys_total = $toys*$toys_cost;
 $stuff_animal_total = $stuff_animal*$stuff_animal_cost;
 $tech_total = $tech*$tech_cost;
-$Discount = $candy_discount+$fruit_discount+$toys_discount+$stuff_animal_discount+$tech_discount;
 $Sub_Total = $candy_total+$fruit_total+$toys_total+$stuff_animal_total+$tech_total;
 $Tax = .05;
 $Plain_Tax = $Tax*$Sub_Total;
